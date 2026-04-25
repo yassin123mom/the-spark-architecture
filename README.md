@@ -1,6 +1,3 @@
-This is the definitive, multi-page technical release. It includes the updated **Command-Logic** of the Spark and a granular breakdown of each module for your research paper.
-
----
 
 # THE SPARK ARCHITECTURE: A FOUNDATIONAL BLUEPRINT FOR AGI
 **Author:** Yassin Mohamed  
