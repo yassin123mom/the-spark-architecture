@@ -1,13 +1,20 @@
 
 # THE SPARK ARCHITECTURE: A FOUNDATIONAL BLUEPRINT FOR AGI
 **Author:** Yassin Mohamed  
+
 **Classification:** Research Specification / Milestone 01  
+
 **Archive:** [Pending Moderator Approval at Thesis Commons]  
-**Registration:** [[OSF Registration]](https://osf.io/t98e5/overview)
-[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FT98E5-blue)](https://doi.org/10.17605/OSF.IO/T98E5)
-**Architect:** Yassin Mohaemd
-> **Official Record:** [View on OSF](https://doi.org/10.17605/OSF.IO/T98E5)
-**Release Date:** April 2026
+
+**Registration:** [[OSF Registration]](https://osf.io/t98e5/overview)  
+
+**Architect:** Yassin Mohamed  
+
+**Official Record:** [View on OSF](https://doi.org/10.17605/OSF.IO/T98E5)  
+
+**Release Date:** April 2026  
+
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FT98E5-blue)](https://doi.org/10.17605/OSF.IO/T98E5)  
 
 ---
 
