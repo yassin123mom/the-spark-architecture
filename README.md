@@ -127,3 +127,6 @@ AGI belongs to the world. By contributing to these research papers—specificall
 
 **Statement of the Architect:**
 *"I am Yassin Mohamed. I realized that the giants of the industry were building bigger brains, but they forgot the Spark that makes a brain want to think. This is the Foundation. The AGI Era has begun."*
+
+**What is comming:**
+I am implementing the framework right now to see how it will work the code will be open source you can download it and use it or develop it!
