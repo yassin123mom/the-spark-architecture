@@ -28,7 +28,7 @@ Artificial General Intelligence is a system that moves beyond the **Reactive Era
 
 <a name="section-2"></a>
 ## 2. The Spark: The Command Logic
-The **Spark** is the "Will" of the system. Unlike other theories that treat the start of intelligence as a "search," the **Mohamed Theory** treats it as a **Command of Motivation**.
+The **Spark** is the "Will" of the system. Unlike other theories that treat the start of intelligence as a "search," the **Spark Theory** treats it as a **Command of Motivation**.
 
 ### **The Default Motivation (The "Hunger")**
 The Spark acts as an executive pressure layer. It does not find problems; it tells the Reasoning Core: **"You must have goals. You must identify your limits. You must find the gaps."** This forces the Brain into a state of constant self-interrogation and environmental scanning. The Spark is the "Hunger" that forces the AI to hunt for intelligence.
@@ -108,7 +108,7 @@ The Spark Architecture relies on the logic of **Discovery through Motivation**.
 ## 6. Safety & Growth: Safe Self-Training & MoE
 Traditional "self-rewriting" AI leads to "Stochastic Collapse" (brain instability).
 
-**The Mohamed Safety Protocol:**
+**The Spark Safety Protocol:**
 We utilize **Modular Expansion**. When the AI identifies a gap and trains a solution, it builds a **Specialized Expert Model**. This model is plugged into the **Mixture of Experts (MoE)** bank. The core brain remains stable, simply routing specific tasks to the new specialists. This creates an AGI that grows in capability while remaining fundamentally safe.
 
 ---
